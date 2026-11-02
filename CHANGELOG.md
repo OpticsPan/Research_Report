@@ -6,6 +6,12 @@
 
 ## 2026-11-02
 
+- **PDF 来源转写**　将逐页转写、扫描页核对和原件定位纳入研究来源管理。作者按[首页流程](README.md#pdf-来源转写)处理 PDF，审阅者按 PR 清单核对覆盖范围和疑点。[PR #6](https://github.com/OpticsPan/Research_Report/pull/6)
+
+- **报告写作偏好**　将已确认的[五条写作偏好](PREFERENCES.md#行业调研报告写作偏好)用于行业调研报告的撰写与审阅，涵盖摘要、段落、数字口径、图题图注和核算细节的放置。
+
+- **单篇报告偏好**　在[光刻机报告](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md#本篇图表与行文约定)登记柱状图、时间箭头、多参数对照表和专利附图的使用场景，并从用户偏好页提供入口。
+
 - **专利来源归档**　把每件专利的[逐页 Markdown](materials/patents/README.md#独立交付与引用)列为独立交付。光刻机报告的[来源表](reports/semiconductor-equipment/2026-11-krf-vs-i-line/sources.md)已直链两份逐页稿，并标明另两件待补原件。
 
 - **专利原文归档**　补录 [Cymer 脉冲能量控制](materials/patents/EP1019992B1/fulltext.md)和 [ASML 扫描台测量](materials/patents/US6084673A/fulltext.md)两份按 PDF 原页组织的 Markdown，共 50 页。附图和公式可返回原页核对。
