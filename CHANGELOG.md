@@ -6,6 +6,8 @@
 
 ## 2026-11-02
 
+- **专利原文归档**　补录 [Cymer 脉冲能量控制](materials/patents/EP1019992B1/fulltext.md)和 [ASML 扫描台测量](materials/patents/US6084673A/fulltext.md)两份按 PDF 原页组织的 Markdown，共 50 页。附图和公式可返回原页核对。
+
 - **光刻机报告修订**　补充[官方数据底稿](reports/semiconductor-equipment/2026-11-krf-vs-i-line/official-data.md)和四件专利的技术摘录，加入线宽对照图与研发时间线。按专利实施例将 KrF 物镜最大 NA 从 0.55 改为 0.60，镜片计数维持 29 片。[报告与修订记录](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)
 
 - **资料库**　建立[专利资料库](materials/patents/README.md)和全文转写模板，统一记录 PDF 来源、页码、权利要求和附图编号，方便跨报告复用与核查。

@@ -1,5 +1,7 @@
 # EP1019992B1 · 准分子激光脉冲能量控制
 
+[逐页原文转写与原图](fulltext.md)
+
 Cymer，欧洲授权公报，2006-06-14。优先权日为 1997-10-10。原始说明书为英文。以下是按 PDF 页码整理的中文技术摘录。页码从封面起计，共 23 页。[公报 PDF](https://patentimages.storage.googleapis.com/56/01/0c/4efa593a4f8050/EP1019992B1.pdf) · [可检索文本](https://patents.google.com/patent/EP1019992B1/en)
 
 | PDF 页码与定位 | 技术内容 | 与光刻机的关系 |

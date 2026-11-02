@@ -1,5 +1,7 @@
 # US6084673A · 扫描曝光的双台干涉测量
 
+[逐页原文转写与原图](fulltext.md)
+
 美国授权公报，封面受让人为 ASM Lithography B.V.，公开日 2000-07-04，最早优先权日 1996-03-04。以下为英文 PDF 的中文技术摘录，页码从封面起计，共 27 页。[公报 PDF](https://patentimages.storage.googleapis.com/8e/53/50/5ca8d0ec153924/US6084673.pdf) · [可检索文本](https://patents.google.com/patent/US6084673A/en)
 
 ![扫描曝光装置原始附图，第一张图纸](https://patentimages.storage.googleapis.com/35/f9/e2/61333049343ec0/US6084673-drawings-page-2.png)
