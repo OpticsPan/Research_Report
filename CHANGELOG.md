@@ -6,6 +6,8 @@
 
 ## 2026-11-02
 
+- **光刻机报告修订**　补充[官方数据底稿](reports/semiconductor-equipment/2026-11-krf-vs-i-line/official-data.md)和四件专利的技术摘录，加入线宽对照图与研发时间线。按专利实施例将 KrF 物镜最大 NA 从 0.55 改为 0.60，镜片计数维持 29 片。[报告与修订记录](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)
+
 - **资料库**　建立[专利资料库](materials/patents/README.md)和全文转写模板，统一记录 PDF 来源、页码、权利要求和附图编号，方便跨报告复用与核查。
 
 - **报告发布**　新增[KrF 与 i-line 光刻机工程难度对照](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)，分别核对同架构整机指标、投影物镜实施例和研发投入边界，登记板卡及机型级预算的资料缺口。
