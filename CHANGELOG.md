@@ -6,6 +6,8 @@
 
 ## 2026-11-02
 
+- **专利来源归档**　把每件专利的[逐页 Markdown](materials/patents/README.md#独立交付与引用)列为独立交付。光刻机报告的[来源表](reports/semiconductor-equipment/2026-11-krf-vs-i-line/sources.md)已直链两份逐页稿，并标明另两件待补原件。
+
 - **专利原文归档**　补录 [Cymer 脉冲能量控制](materials/patents/EP1019992B1/fulltext.md)和 [ASML 扫描台测量](materials/patents/US6084673A/fulltext.md)两份按 PDF 原页组织的 Markdown，共 50 页。附图和公式可返回原页核对。
 
 - **光刻机报告修订**　补充[官方数据底稿](reports/semiconductor-equipment/2026-11-krf-vs-i-line/official-data.md)和四件专利的技术摘录，加入线宽对照图与研发时间线。按专利实施例将 KrF 物镜最大 NA 从 0.55 改为 0.60，镜片计数维持 29 片。[报告与修订记录](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)
