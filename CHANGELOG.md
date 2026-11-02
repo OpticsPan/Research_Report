@@ -6,6 +6,8 @@
 
 ## 2026-11-02
 
+- **单篇报告偏好**　在[光刻机报告](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md#本篇图表与行文约定)登记柱状图、时间箭头、多参数对照表和专利附图的使用场景，并从用户偏好页提供入口。
+
 - **报告发布**　新增[KrF 与 i-line 光刻机工程难度对照](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)，分别核对同架构整机指标、投影物镜实施例和研发投入边界，登记板卡及机型级预算的资料缺口。
 
 - **用户偏好管理**　新增[长期偏好登记表](PREFERENCES.md)，记录已确认的变更留痕要求。选题时可补充单篇要求，审阅时按对应范围核对。
