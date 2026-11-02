@@ -6,6 +6,8 @@
 
 ## 2026-11-02
 
+- **PDF 来源转写**　将逐页转写、扫描页核对和原件定位纳入研究来源管理。作者按[首页流程](README.md#pdf-来源转写)处理 PDF，审阅者按 PR 清单核对覆盖范围和疑点。[PR #6](https://github.com/OpticsPan/Research_Report/pull/6)
+
 - **报告发布**　新增[KrF 与 i-line 光刻机工程难度对照](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)，分别核对同架构整机指标、投影物镜实施例和研发投入边界，登记板卡及机型级预算的资料缺口。
 
 - **用户偏好管理**　新增[长期偏好登记表](PREFERENCES.md)，记录已确认的变更留痕要求。选题时可补充单篇要求，审阅时按对应范围核对。
