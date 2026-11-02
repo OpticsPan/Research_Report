@@ -4,12 +4,18 @@
 
 [专利资料库](materials/patents/README.md)收录从原始 PDF 转写的 Markdown 全文，供报告引用和 AI 检索。
 
+## 单分支管理
+
+`main` 是仓库唯一分支。新增报告、资料归档、勘误以及仓库管理变更都直接提交到 `main`。保留每次提交和已有合并历史，不创建工作分支或新 PR。
+
+提交前先读取最新的 `main`，按[提交前检查清单](templates/pre-commit-checklist.md)复核本次改动。写入时若 `main` 已有新提交，先核对差异、整合他人的更新，再重新检查并提交。修正已发布内容时追加更正提交，保留原记录。
+
 ## 开始一份报告
 
 1. **选题**　在 [Issues](https://github.com/OpticsPan/Research_Report/issues/new/choose) 选择「研究选题」，写明报告面向谁、要回答什么问题、覆盖哪些市场和年份。认领选题后，在 Issue 上指定负责人。查阅[用户偏好](PREFERENCES.md)，把本篇的特殊要求写入选题 Issue。
-2. **撰写**　从 `main` 创建分支。在 `reports/<行业>/<YYYY-MM>-<主题>/` 下复制[报告模板](templates/report.md)为 `README.md`，复制[来源表](templates/sources.md)为 `sources.md`。例如，`reports/储能/2026-11-工商业储能需求/`。月份取首次发布月份，修订沿用原目录。
-3. **审阅**　提交 Pull Request（PR），关联选题 Issue，并在[报告目录](reports/README.md)增加条目。审阅者按 PR 清单核对核心结论、统计口径和估算过程。涉及主要结论的疑问应在合并前处理。
-4. **发布与修订**　PR 合入 `main` 即为发布。后续数据更新或勘误通过新 PR 提交，同步更新正文的修订记录和目录中的数据截止日。引用特定版本时使用该版的 GitHub 提交链接。
+2. **撰写**　在最新的 `main` 上准备改动。在 `reports/<行业>/<YYYY-MM>-<主题>/` 下复制[报告模板](templates/report.md)为 `README.md`，复制[来源表](templates/sources.md)为 `sources.md`。例如，`reports/储能/2026-11-工商业储能需求/`。月份取首次发布月份，修订沿用原目录。
+3. **审阅**　在[报告目录](reports/README.md)增加条目，按[提交前检查清单](templates/pre-commit-checklist.md)核对结论、统计口径和估算过程。涉及主要结论的疑问应在发布前处理，可在选题 Issue 中记录讨论。
+4. **发布与修订**　将核对后的变更直接提交到 `main` 即为发布，提交说明关联选题 Issue（如有）。后续数据更新或勘误追加提交，同步更新正文的修订记录和目录中的数据截止日。引用特定版本时使用该版的 GitHub 提交链接。
 
 ## 引用与数据口径
 
