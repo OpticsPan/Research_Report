@@ -6,6 +6,14 @@
 
 ## 2026-11-02
 
+- **专利来源归档**　把每件专利的[逐页 Markdown](materials/patents/README.md#独立交付与引用)列为独立交付。光刻机报告的[来源表](reports/semiconductor-equipment/2026-11-krf-vs-i-line/sources.md)已直链两份逐页稿，并标明另两件待补原件。
+
+- **专利原文归档**　补录 [Cymer 脉冲能量控制](materials/patents/EP1019992B1/fulltext.md)和 [ASML 扫描台测量](materials/patents/US6084673A/fulltext.md)两份按 PDF 原页组织的 Markdown，共 50 页。附图和公式可返回原页核对。
+
+- **光刻机报告修订**　补充[官方数据底稿](reports/semiconductor-equipment/2026-11-krf-vs-i-line/official-data.md)和四件专利的技术摘录，加入线宽对照图与研发时间线。按专利实施例将 KrF 物镜最大 NA 从 0.55 改为 0.60，镜片计数维持 29 片。[报告与修订记录](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)
+
+- **资料库**　建立[专利资料库](materials/patents/README.md)和全文转写模板，统一记录 PDF 来源、页码、权利要求和附图编号，方便跨报告复用与核查。
+
 - **报告发布**　新增[KrF 与 i-line 光刻机工程难度对照](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)，分别核对同架构整机指标、投影物镜实施例和研发投入边界，登记板卡及机型级预算的资料缺口。
 
 - **用户偏好管理**　新增[长期偏好登记表](PREFERENCES.md)，记录已确认的变更留痕要求。选题时可补充单篇要求，审阅时按对应范围核对。

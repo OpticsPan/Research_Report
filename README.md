@@ -2,6 +2,8 @@
 
 这里维护行业调研报告的正文、关键数据来源和修订记录。阅读已发布的研究，请看[报告目录](reports/README.md)。报告发布、重要勘误和协作流程调整见[仓库变更记录](CHANGELOG.md)。
 
+[专利资料库](materials/patents/README.md)收录从原始 PDF 转写的 Markdown 全文，供报告引用和 AI 检索。
+
 ## 开始一份报告
 
 1. **选题**　在 [Issues](https://github.com/OpticsPan/Research_Report/issues/new/choose) 选择「研究选题」，写明报告面向谁、要回答什么问题、覆盖哪些市场和年份。认领选题后，在 Issue 上指定负责人。查阅[用户偏好](PREFERENCES.md)，把本篇的特殊要求写入选题 Issue。
