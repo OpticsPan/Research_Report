@@ -6,6 +6,8 @@
 
 ## 2026-11-02
 
+- **报告发布**　新增[KrF 与 i-line 光刻机工程难度对照](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)，分别核对同架构整机指标、投影物镜实施例和研发投入边界，登记板卡及机型级预算的资料缺口。
+
 - **用户偏好管理**　新增[长期偏好登记表](PREFERENCES.md)，记录已确认的变更留痕要求。选题时可补充单篇要求，审阅时按对应范围核对。
 
 - **变更管理**　建立本日志。读者可从[仓库首页](README.md)查看重要更新，提交者需在 [PR 清单](.github/pull_request_template.md)中核对登记情况。
