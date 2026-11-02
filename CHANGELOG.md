@@ -6,6 +6,8 @@
 
 ## 2026-11-02
 
+- **用户偏好管理**　新增[长期偏好登记表](PREFERENCES.md)，记录已确认的变更留痕要求。选题时可补充单篇要求，审阅时按对应范围核对。
+
 - **变更管理**　建立本日志。读者可从[仓库首页](README.md)查看重要更新，提交者需在 [PR 清单](.github/pull_request_template.md)中核对登记情况。
 - **目录与模板**　新增[报告目录](reports/README.md)、[报告模板](templates/report.md)和[来源表](templates/sources.md)，并为选题和审阅提供统一入口。作者可据此准备初稿，审阅者可逐项核查引用与统计口径。[提交 2d309c9](https://github.com/OpticsPan/Research_Report/commit/2d309c95cb8c1c671d766681c77a28b9e24bb497)
 - **仓库初始化**　在首页约定选题、撰写、审阅、发布和修订流程，并说明数据口径、引用方式与公开材料的使用要求。[提交 8d6e3ed](https://github.com/OpticsPan/Research_Report/commit/8d6e3ed8f89cd51d609b941166353e0a6ff01344)

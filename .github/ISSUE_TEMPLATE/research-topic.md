@@ -16,6 +16,10 @@ title: "[选题] "
 
 列出优先核查的原始来源，以及可能无法取得的数据。
 
+## 本篇偏好（选填）
+
+对照[长期偏好](https://github.com/OpticsPan/Research_Report/blob/main/PREFERENCES.md)，列出仅本篇适用的要求，例如摘要篇幅、图表或交付格式。没有额外要求可留空。
+
 ## 交付约定
 
 - 负责人：

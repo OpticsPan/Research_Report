@@ -4,7 +4,7 @@
 
 ## 开始一份报告
 
-1. **选题**　在 [Issues](https://github.com/OpticsPan/Research_Report/issues/new/choose) 选择「研究选题」，写明报告面向谁、要回答什么问题、覆盖哪些市场和年份。认领选题后，在 Issue 上指定负责人。
+1. **选题**　在 [Issues](https://github.com/OpticsPan/Research_Report/issues/new/choose) 选择「研究选题」，写明报告面向谁、要回答什么问题、覆盖哪些市场和年份。认领选题后，在 Issue 上指定负责人。查阅[用户偏好](PREFERENCES.md)，把本篇的特殊要求写入选题 Issue。
 2. **撰写**　从 `main` 创建分支。在 `reports/<行业>/<YYYY-MM>-<主题>/` 下复制[报告模板](templates/report.md)为 `README.md`，复制[来源表](templates/sources.md)为 `sources.md`。例如，`reports/储能/2026-11-工商业储能需求/`。月份取首次发布月份，修订沿用原目录。
 3. **审阅**　提交 Pull Request（PR），关联选题 Issue，并在[报告目录](reports/README.md)增加条目。审阅者按 PR 清单核对核心结论、统计口径和估算过程。涉及主要结论的疑问应在合并前处理。
 4. **发布与修订**　PR 合入 `main` 即为发布。后续数据更新或勘误通过新 PR 提交，同步更新正文的修订记录和目录中的数据截止日。引用特定版本时使用该版的 GitHub 提交链接。
