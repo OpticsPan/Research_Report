@@ -22,6 +22,8 @@
 
 | 公开号与转写稿 | 专利名称 | 转写状态 |
 | --- | --- | --- |
+| [US6816325B1](US6816325B1/README.md) | ZEISS 光学元件可调镜框 | [6 页本地 MineU 稿](US6816325B1/fulltext.md) · [原件](US6816325B1/original.pdf)，已核对图 1–3 与权利要求 24–30 |
+| [US20060038968A1](US20060038968A1/README.md) | ASML 浸没光刻液体回收 | [14 页本地 MineU 稿](US20060038968A1/fulltext.md) · [原件](US20060038968A1/original.pdf)，已核对图 5、8 与段 0059–0064 |
 | [JPH08190047A](JPH08190047A/README.md) | i-line 投影物镜 | [25 页 MineU 稿](JPH08190047A/fulltext.md) · [原件](JPH08190047A/original.pdf)；已核对图 2 与表 1 关键数值 |
 | [JP2000056218A](JP2000056218A/README.md) | KrF 投影物镜 | [8 页 MineU 稿](JP2000056218A/fulltext.md) · [原件](JP2000056218A/original.pdf)；已核对图 1 与表 1 关键数值 |
 | [EP1019992B1](EP1019992B1/README.md) | 准分子激光脉冲能量控制 | [23 页逐页原文](EP1019992B1/fulltext.md)，附中文摘录 |

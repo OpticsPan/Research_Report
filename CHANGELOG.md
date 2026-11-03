@@ -6,6 +6,8 @@
 
 ## 2026-11-03
 
+- [ASML 产品与研发难度](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)补入两条产品线的研发和出货节点、870 机群 13 周表现、870B 的 7 处硬件及系统升级。逐项区分晶圆台、镜框、控制板、热调节工位与独立机柜，新增 ZEISS、ASML [两件专利原件及本地 MineU 逐页稿](materials/patents/README.md)。
+
 - [光刻机调研](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)以 XT:400M 与 NXT:870 为主样本；区分标准与选配分辨率、ATP 负载及套刻定义，加入 XT:860N 同波长对照。历史样本保留作参照。
 - [专利资料库](materials/patents/README.md)补齐两件 Nikon 日本公报，按原始页序用本地 MineU 转写，登记来源、页数、校对范围，并排展示两件专利的物镜剖面。
 - [写作偏好](PREFERENCES.md)增加对比报告的并排呈现要求。

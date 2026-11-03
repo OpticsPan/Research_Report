@@ -48,5 +48,31 @@
 | S42 | [ASML，Q4/FY 2024 投资者演示，第 9 页](https://ourbrand.asml.com/m/62a213cac2117ee6/original/2025_01_29-Presentation-Investor-Relations-Q4-FY-2024.pdf#page=9) | 2025-01-29，“First NXT:870B KrF system shipped” 的中列明确为 **NXT:870**。按表头与两条脚注复核。左侧新硬件标注属于 870B，没有移用于 870。[第 9 页数据摘录](official-data.md#twinscan-calculations)。 |
 | S43 | [ASML 2022 年报，SEC 备案 HTML](https://www.sec.gov/Archives/edgar/data/937966/000093796623000014/asml-20221231.htm) | Our products and services → Dry systems：首台 NXT:870 客户交付、对比 XT:860N 的 260 → 330 片/小时，以及扫描速度提升、系统开销减少的归因。 |
 | S44 | [ASML 2024 年报，SEC 备案 HTML](https://www.sec.gov/Archives/edgar/data/937966/000093796625000009/asml-20241231.htm) | Deep ultraviolet (DUV) lithography systems → New in 2024：首台 XT:400M 于 2024 年 4 月出货，系 XT:400L 后继机。 |
+| S45 | [ASML 2024 Investor Day，DUV 业务，SEC 原文](https://www.sec.gov/Archives/edgar/data/937966/000093796624000026/exhibit995.htm) | 第 20 页，870 在役机群 13 周平均日产与可用率。第 21 页，三款 KrF 同表，870B 的 7 处升级及出货计划。第 26 页，共用技术范围。 |
+| S46 | [ASML，TWINSCAN 诞生后 20 年](https://www.asml.com/en/company/stories/2021/twinscan-20-years-innovation) | 双台指两个完整的 wafer table modules。首台 2001 年 AT:750T 出货，随后 AT:400T，2004 年 XT，NXT 引入更轻的台。 |
+| S47 | [ASML 2021 Q4/FY 公告](https://www.sec.gov/Archives/edgar/data/937966/000093796622000004/pressreleasequarterlyresul.htm) | Products and business highlights。XT:860N 于 2021 年底初次对客出货。对 870 的表述仍为次年展望，并明确采用 NXT 在 ArFi、干式 ArF 的既有经验。 |
+| S48 | [ASML 2022 Q2 公告](https://www.sec.gov/Archives/edgar/data/937966/000093796622000019/pressreleasequarterlyresul.htm) | Products and business highlights。季度内向客户交付首台 NXT:870，首次把 KrF 放上 NXT。 |
+| S49 | [ASML 2018 Investor Day，DUV 路线图](https://www.sec.gov/Archives/edgar/data/937966/000119312518323057/d650002dex996.htm) | 2018-11-08，DUV Technology Roadmap 的 i-line 行已列 XT:400L、230 片/小时。该页未给首台出货日期。 |
+| S50 | [ASML 2021 Investor Day，DUV 路线图](https://www.sec.gov/Archives/edgar/data/937966/000119312521287742/d133133dex996.htm) | 2021-09-29，第 9–10 页同时列出 XT:400L/M、XT:860N 和 NXT:870。此时的性能数字和年份是路线图口径。 |
+| S51 | [ASML，TWINSCAN XT:400L](https://www.asml.com/en/products/duv-lithography-systems/twinscan-xt-400l) | Optics 明列 advanced lens manipulator、350/280/220 nm 配置。Productivity 区分片径和高分辨率选件。证据属于 400L。 |
+| S52 | [ASML，早期浸没研发参与者回顾](https://www.asml.com/en/company/stories/2023/how-immersion-lithography-saved-moores-law) | 2001-12、20 人全尺寸样机团队、2003 年秋成像、2003-12 预生产机公告、2006 年量产与 2008 年 NXT 引入。另见局部浸没头与气泡、残滴及联合研发分工。 |
+| S53 | [ASML，公司历史](https://www.asml.com/en/company/about-asml/history) | 2000s 段按 AT:1150i、XT:1250i、XT:1400i 和 2006 年 XT:1700i 列出浸没迭代。[S52] 对 2006 年使用更细的 XT:1700Fi 名称，报告按系列列示。 |
+| S54 | [ASML，TWINSCAN NXT:2050i](https://www.asml.com/en/products/duv-lithography-systems/twinscan-nxt2050i) | Productivity、Optics。原厂具名新浸没头、减少失水，193 nm 折反射镜、NA 1.35、4×、26 × 33 mm、两种照明下的分辨率。 |
+| S55 | [ASML，Lenses & mirrors](https://www.asml.com/en/technology/lithography-principles/lenses-and-mirrors) | 开篇交代自 1980 年代末起，ASML 整机均采用 ZEISS 光学。文中关于高端机镜头体积或致动器数量的概述不移用于 400M 或 870。 |
+| S56 | [Neways，ASML 电源及控制设备供货案例](https://newayselectronics.com/markets/semicon-solutions/supporting-asml-in-development-and-production-of-electrical-power-control-units/) | 厂商点名 wafer handler enclosure control units 等。案例涉及多种光刻设备，未列两款目标机的装机清单。 |
+| S57 | [Carl Zeiss SMT AG，US6816325B1](https://patents.google.com/patent/US6816325B1/en) · [原件 PDF](../../../materials/patents/US6816325B1/original.pdf) · [MineU 逐页稿](../../../materials/patents/US6816325B1/fulltext.md) | PDF 第 2 页图 1、第 3 页图 2–3，第 4–5 页具体实施例，第 5–6 页权利要求 24–30。三个周向支点仅对应该实施例。 |
+| S58 | [ASML Netherlands B.V.，US20060038968A1](https://patents.google.com/patent/US20060038968A1/en) · [原件 PDF](../../../materials/patents/US20060038968A1/original.pdf) · [MineU 逐页稿](../../../materials/patents/US20060038968A1/fulltext.md) | PDF 第 4 页图 5、第 5 页图 8，第 11–12 页段 0059–0064。区分供气、抽气、液体回收与局部蒸发影响。 |
+| S59 | [TU/e，B. Obreja，2020，成像控制机架中的 ARTIC 架构研究](https://research.tue.nl/en/studentTheses/proposal-of-architectural-alternatives-using-artic-within-the-ima/) · [原件第 44 页](https://pure.tue.nl/ws/portalfiles/portal/172236739/Obreja_B..pdf#page=44) | ASML 项目硕士论文。PDF 第 44 页图 14 是当时已部署 NXT 机架（1 HCB、5 MCB、2 BB，S&A 以组绘出）。第 52 页照明子系统用两块 MCB。第 67、69 页为备选映射方案，不能当作后续商用配置。 |
+| S60 | [TU/e，M. Franssen，2023，气流式晶圆热调节单元设计与实验](https://pure.tue.nl/ws/portalfiles/portal/309386975/1367382-Design_and_experimental_validation_of_a_Thermal_Conditioning_Unit_which_utilizes_air_jets_for_the_thermal_conditioning_of_silicon_wafers.pdf#page=10) | ASML 项目硕士论文。物理第 10 页的 SU、TSU 和 10.9 秒来自搬运侧。第 37–38 页区分最大台架流量的实测与更高流量的外推。第 46 页说明 MK7 的安装位置。 |
+| S61 | [ZEISS，Hendrik G. Seliger，供应链讲演，2015-10-14](https://www.brainportindustries.com/_asset/_public/Seliger-SC-Networks-Eindhoven-20151014-Handout.pdf#page=7) | 物理第 7 页（幻灯片编号 8）并列五个产品系列。图 A 仅截取 Starlith 400、1000 两栏，保留原标签和波长。型号参数另据 S38、S39。 |
+| S62 | [ASML 2025 Q3，首台先进封装产品](https://www.asml.com/news/press-releases/2025/q3-2025-financial-results) | 首台 XT:260 已出货，ASML 将它归为 3D 集成与先进封装专用 i-line 产品。 |
+| S63 | [Cymer，248 nm KrF 光源系列](https://www.cymer.com/krf/) | ELS 系列的激光工作气体、模块寿命等属于供应商产品资料，不能指定 870 的出厂配置。 |
+| S64 | [ASML，TWINSCAN 客户现场产量里程碑](https://www.asml.com/en/news/press-releases/2010/asml-twinscan-systems-surpass-4000-wafers-per-day-milestone) | 2010-12-01 新闻稿回溯 2007 年 10 月的 XT:400E，一年百万片是客户运行记录，非该型号的首发日期。 |
+| S65 | [ASML，2011 年 NXT:1950i 升级公告](https://www.asml.com/en/news/press-releases/2011/asml-enhances-nxt1950i) | 原厂回溯首台 1950i 在 2009 年出货，2011 年 7 月 FlexWave 可用，用于补偿像差与镜头受热。与 2008 年机型推出分开。 |
+| S66 | [ASML，TWINSCAN NXT:2100i](https://www.asml.com/en/products/duv-lithography-systems/twinscan-nxt2100i) | 确认为 2050i 后继产品，引入畸变调节器、改善 DUV-EUV 套刻。 |
+| S67 | [ASML，畸变调节器研发与验证](https://www.asml.com/en/company/stories/2023/novel-lens-manipulator) | A promising prototype 段给出第二项试验的两层失配约 0.65 至 0.3 nm，研发团队、试验条件与 2100i 商用集成分列。 |
+
+S59、S60 是高校为研究提供的论文。其 PDF 和逐页文本仅保存在本地资料目录，公开仓库保留书目信息、定位与独立核对的数字。S61 只使用原图表中讨论的两栏。[三项资料的页码与图表校对](official-data.md#source-qa)。
+
 
 [官方数据 Markdown 底稿](official-data.md)保留参数单位、计算和项目边界。
