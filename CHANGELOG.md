@@ -6,6 +6,8 @@
 
 ## 2026-11-03
 
+- [两页 ASML 时间轴](reports/semiconductor-equipment/2026-11-asml-product-timeline/ASML_光刻机发展时间轴_2页.pptx)按官方来源逐项复核：分辨率改为 CD，套刻标注 SMO / DCO / MMO，产率采用中文。时间节点统一为实际首次出货季度 `YYYY-Qn`，23 个机型条目中确认 8 个季度，其余日期及无法核实的具体型号参数、套刻类型标为 `NAN`。XT:1700i 首次出货从原稿的 2006-Q1 改为 2006-Q2，NXT:1980Di 从 2015-Q4 改为 2015-Q3；依据原厂年报与季度公告，详情及字段来源保留在 PPT 备注。继续保留 2004—2024 等比例轴和微软雅黑，NAN 日期不绑定时间节点。
+
 - [两页 ASML 时间轴](reports/semiconductor-equipment/2026-11-asml-product-timeline/ASML_光刻机发展时间轴_2页.pptx)恢复第一版共用的 2004—2024 等比例年份轴，保留所有原始时间节点坐标，以显示实际时间跨度。仅微调字号、文字位置和连线，原始参数、日期说明及来源备注保持一致。
 
 - [两页 ASML 时间轴](reports/semiconductor-equipment/2026-11-asml-product-timeline/ASML_光刻机发展时间轴_2页.pptx)调整布局：按系列分行、按代际顺序展开，统一日期、机型和三项参数的位置，明确节点间距不代表年份间隔。保留全部 23 个机型条目、微软雅黑及来源备注，本次未重新调整研究数据。
