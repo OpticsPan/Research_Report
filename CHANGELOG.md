@@ -6,6 +6,8 @@
 
 ## 2026-11-03
 
+- [两页 ASML 时间轴](reports/semiconductor-equipment/2026-11-asml-product-timeline/ASML_光刻机发展时间轴_2页.pptx)调整布局：按系列分行、按代际顺序展开，统一日期、机型和三项参数的位置，明确节点间距不代表年份间隔。保留全部 23 个机型条目、微软雅黑及来源备注，本次未重新调整研究数据。
+
 - 新增 [ASML 光刻机发展时间轴（两页 PPT）](reports/semiconductor-equipment/2026-11-asml-product-timeline/ASML_光刻机发展时间轴_2页.pptx)，展示干式与浸没式产品的时间节点、分辨率、套刻和产率；全篇使用微软雅黑，资料来源和指标口径见幻灯片备注。
 
 - [XT:860 晶圆台专项](reports/semiconductor-equipment/2026-11-krf-vs-i-line/xt860-ws-performance.md)经 SciBot 检索和论文读取，追溯 MA＝3 nm 为第三方模型估算，保留重复性资料缺口；把 XT:1000H 实测、其他平台噪声及整机套刻分开列示，并补入[正文](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md#xt860-ma-repeatability)。
