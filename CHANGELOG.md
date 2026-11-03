@@ -6,6 +6,8 @@
 
 ## 2026-11-03
 
+- [ASML 报告](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)以 ZEISS 0.65 NA i-line 和 0.80 NA KrF 专利图为正文主对照，新增晶圆台平台实测与十项功能比较，移除历史整机样本；[Nikon 设计](reports/semiconductor-equipment/2026-11-krf-vs-i-line/nikon-lens-supplement.md)改为补充。两件新公报的 57 页本地 MineU 稿及原件已入[资料库](materials/patents/README.md)。
+
 - [ASML 产品与研发难度](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)补入两条产品线的研发和出货节点、870 机群 13 周表现、870B 的 7 处硬件及系统升级。逐项区分晶圆台、镜框、控制板、热调节工位与独立机柜，新增 ZEISS、ASML [两件专利原件及本地 MineU 逐页稿](materials/patents/README.md)。
 
 - [光刻机调研](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)以 XT:400M 与 NXT:870 为主样本；区分标准与选配分辨率、ATP 负载及套刻定义，加入 XT:860N 同波长对照。历史样本保留作参照。

@@ -1,6 +1,6 @@
 # 来源表
 
-主机型及两件物镜公报核查于 2026-11-03；历史来源沿用 2026-11-02 版本。原厂规格用来核对验收指标；实验室记录、专利和历史报道各自保留适用边界。正文的百分比和逐组加总为本报告计算。
+目标机型、ZEISS 物镜公报和晶圆台资料核查于 2026-11-03。早期版本的来源编号保留，Nikon 镜头见独立补充。原厂规格用来核对验收指标；实验室记录、专利和历史报道各自保留适用边界。正文的百分比和逐组加总为本报告计算。
 
 | 编号 | 出处 | 定位与使用边界 |
 | --- | --- | --- |
@@ -71,8 +71,16 @@
 | S65 | [ASML，2011 年 NXT:1950i 升级公告](https://www.asml.com/en/news/press-releases/2011/asml-enhances-nxt1950i) | 原厂回溯首台 1950i 在 2009 年出货，2011 年 7 月 FlexWave 可用，用于补偿像差与镜头受热。与 2008 年机型推出分开。 |
 | S66 | [ASML，TWINSCAN NXT:2100i](https://www.asml.com/en/products/duv-lithography-systems/twinscan-nxt2100i) | 确认为 2050i 后继产品，引入畸变调节器、改善 DUV-EUV 套刻。 |
 | S67 | [ASML，畸变调节器研发与验证](https://www.asml.com/en/company/stories/2023/novel-lens-manipulator) | A promising prototype 段给出第二项试验的两层失配约 0.65 至 0.3 nm，研发团队、试验条件与 2100i 商用集成分列。 |
+| S68 | [Carl Zeiss SMT AG，US6806942B2，2004](https://patents.google.com/patent/US6806942B2/en) · [原始 PDF](../../../materials/patents/US6806942B2/original.pdf) · [40 页本地 MineU 稿](../../../materials/patents/US6806942B2/fulltext.md) | PDF 第 2–3 页图 1a、1b，第 20 页记载早期对照设计的波长、倍率、NA 与材料编号。第 23–24 页图 2 处方的表 1 另列具名玻璃。 |
+| S69 | [Carl-Zeiss-Stiftung，US6522484B1，2003](https://patents.google.com/patent/US6522484B1/en) · [原始 PDF](../../../materials/patents/US6522484B1/original.pdf) · [17 页本地 MineU 稿](../../../materials/patents/US6522484B1/fulltext.md) | PDF 第 6 页图 5，第 12 页说明书第 6 栏，第 15 页表 5 左栏下半至右栏上半。只取 248 nm 第五实施例。 |
+| S70 | [I. H. Malitson，Interspecimen Comparison of the Refractive Index of Fused Silica，JOSA 55，1205–1209（1965）](https://doi.org/10.1364/JOSA.55.001205) | 熔融石英在 20 °C 的折射率色散式，波长以 µm 代入。给出材料参考值，与专利所用玻璃批次分列。 |
+| S71 | [T. Castenmiller 等（ASML），Towards ultimate optical lithography with NXT:1950i dual stage immersion platform，SPIE 76401N（2010）](https://doi.org/10.1117/12.847025) · [可按图号检索的论文文本](https://www.scribd.com/document/884654557/Towards-Ultimate-Optical-Lithography-with-NXT-1950i-Dual-Stage-Immersion-Platform) | 第 5 节，图 7–10；图 8 对照 1900Gi／1950i 的工况和节拍，图 9 给出驱动拓扑与动质量，图 10 给出实测开环机械模态和同步 MA。引用论文原文及图注。 |
+| S72 | [ASML，Mechanics and mechatronics](https://www.asml.com/en/technology/lithography-principles/mechanics-and-mechatronics) | Innovation in wafer stages 段专述 2008 NXT 平台，列最高 5 g、每秒约两万次测量、传感器约 60 pm。网页开头另举更广范围的机台，两组数字分开。 |
+| S73 | [F. van de Mast、H. van der Schoot，ASML，The next generation of wafer stages，2008-10-15](https://www.sec.gov/Archives/edgar/data/937966/000115697308000936/u56855exv99w3.htm) | 见 NXT Wafer Stage Improves Throughput and Overlay 及 Wafer stage metrology impact on overlay 两页。干涉仪与栅格板示意分别标 300 mm、<15 mm；图上 99.7% 套刻数分属旧 ArF 系统与新原型。 |
+| S74 | [H. Butler，Position Control in Lithographic Equipment，IEEE Control Systems Magazine（2011）](https://doi.org/10.1109/MCS.2011.941882) · [作者上传的全文](https://www.researchgate.net/publication/224258614_Position_Control_in_Lithographic_Equipment_Applications_of_Control) | H-drive、双级粗精动、气浮支承、平面电机与曝光同步控制。用作架构原理的来源。 |
+| S75 | [M. Adaloudis，TU/e 与 ASML，Remaining Useful Lifetime (RUL) Estimation for Predictive Maintenance in Semiconductor Manufacturing（2024）](https://pure.tue.nl/ws/portalfiles/portal/318592528/Master_Thesis_Max_Adaloudis.pdf#page=20) | PDF 物理第 20–21 页（印刷页 10–11），图 2.5 为 XT／NXT 台与计量结构，图 2.6 为测量与曝光工位流程。仅提供论文链接。 |
 
-S59、S60 是高校为研究提供的论文。其 PDF 和逐页文本仅保存在本地资料目录，公开仓库保留书目信息、定位与独立核对的数字。S61 只使用原图表中讨论的两栏。[三项资料的页码与图表校对](official-data.md#source-qa)。
+S59、S60、S75 是高校为研究提供的论文。其 PDF 和逐页文本仅保存在本地资料目录，公开仓库保留书目信息、定位与独立核对的数字。S61 只使用原图表中讨论的两栏。[转写范围与图表校对](official-data.md#source-qa)。
 
 
 [官方数据 Markdown 底稿](official-data.md)保留参数单位、计算和项目边界。
