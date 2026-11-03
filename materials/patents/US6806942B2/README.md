@@ -11,3 +11,5 @@ Carl Zeiss SMT AG，2004-10-19。英文授权公报，共 40 页。
 图 2 和表 1 属于另一设计。表 1 的玻璃牌号和处方不能替代图 1 缺少的材料常数。该公报没有给图 1 的主动镜框数量，也未将图 1 对应到某款 TWINSCAN 商品物镜。[表 1 原件](original.pdf#page=24)
 
 第 38 页收录至权利要求 39，原件最后两页为 2005 年 3 月 1 日和 5 月 24 日签署的更正证书，均已随原件逐页归档。[两份更正证书](original.pdf#page=39)
+
+本版以[图 2a、2b](figures/fig-2-ab.png)和[第 24 页表 1](original.pdf#page=24)计算 32 件玻璃的共同通光直径、中心厚与光学口径边缘厚。由 69 行处方反向追迹得到轴上通光极限 NA≈0.6501。[逐片结果和复算方法](../../../reports/semiconductor-equipment/2026-11-krf-vs-i-line/optical-manufacturing.md)

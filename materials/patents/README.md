@@ -22,7 +22,8 @@
 
 | 公开号与转写稿 | 专利名称 | 转写状态 |
 | --- | --- | --- |
-| [US6806942B2](US6806942B2/README.md) | ZEISS i-line 投影曝光系统 | [40 页本地 MineU 稿](US6806942B2/fulltext.md) · [原件](US6806942B2/original.pdf)，图 1 分页拼接、材料清单与图 2 处方区分 |
+| [US6806942B2](US6806942B2/README.md) | ZEISS i-line 投影曝光系统 | [40 页本地 MineU 稿](US6806942B2/fulltext.md) · [原件](US6806942B2/original.pdf)，图 1 分页拼接；图 2、表 1 已逐面复核并计算 32 件几何 |
+| [DE102024111454A1](DE102024111454A1/README.md) | ZEISS 248 nm／NA 0.80 第四实施例 N801 | [36 页本地 MineU 稿](DE102024111454A1/fulltext.md) · [DPMA 原件](DE102024111454A1/original.pdf)，表 9、9A 的 37 行处方、7 个非球面的系数与图 9 |
 | [US6522484B1](US6522484B1/README.md) | ZEISS 高 NA 投影物镜 | [17 页本地 MineU 稿](US6522484B1/fulltext.md) · [原件](US6522484B1/original.pdf)，核对 248 nm 第五实施例、表 5、37 片透镜与末端平板 |
 | [US6816325B1](US6816325B1/README.md) | ZEISS 光学元件可调镜框 | [6 页本地 MineU 稿](US6816325B1/fulltext.md) · [原件](US6816325B1/original.pdf)，已核对图 1–3 与权利要求 24–30 |
 | [US20060038968A1](US20060038968A1/README.md) | ASML 浸没光刻液体回收 | [14 页本地 MineU 稿](US20060038968A1/fulltext.md) · [原件](US20060038968A1/original.pdf)，已核对图 5、8 与段 0059–0064 |

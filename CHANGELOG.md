@@ -6,6 +6,8 @@
 
 ## 2026-11-03
 
+- [ASML 报告](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)纠正 Starlith 86X 系列配图，以 865 为目标实机型号；据[德国公报原件与 MineU 全文](materials/patents/DE102024111454A1/README.md)及另一套 i-line 处方，新增[49 件逐片加工几何及复算](reports/semiconductor-equipment/2026-11-krf-vs-i-line/optical-manufacturing.md)。晶圆台新增噪声带宽、热漂、残振和扫描套刻的同项对照。
+
 - [ASML 报告](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)以 ZEISS 0.65 NA i-line 和 0.80 NA KrF 专利图为正文主对照，新增晶圆台平台实测与十项功能比较，移除历史整机样本；[Nikon 设计](reports/semiconductor-equipment/2026-11-krf-vs-i-line/nikon-lens-supplement.md)改为补充。两件新公报的 57 页本地 MineU 稿及原件已入[资料库](materials/patents/README.md)。
 
 - [ASML 产品与研发难度](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)补入两条产品线的研发和出货节点、870 机群 13 周表现、870B 的 7 处硬件及系统升级。逐项区分晶圆台、镜框、控制板、热调节工位与独立机柜，新增 ZEISS、ASML [两件专利原件及本地 MineU 逐页稿](materials/patents/README.md)。
