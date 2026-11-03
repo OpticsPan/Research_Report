@@ -4,6 +4,12 @@
 
 把新条目连同对应变更一次提交到 `main`，并将条目写在最上方，按日期（YYYY-MM-DD）归档。每条写明改了什么、对读者或作者有什么影响，并链接对应的报告、Issue 或提交。报告勘误还应在正文修订记录中保留原值、新值和修订依据。
 
+## 2026-11-03
+
+- [光刻机调研](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)以 XT:400M 与 NXT:870 为主样本；区分标准与选配分辨率、ATP 负载及套刻定义，加入 XT:860N 同波长对照。历史样本保留作参照。
+- [专利资料库](materials/patents/README.md)补齐两件 Nikon 日本公报，按原始页序用本地 MineU 转写，登记来源、页数、校对范围，并排展示两件专利的物镜剖面。
+- [写作偏好](PREFERENCES.md)增加对比报告的并排呈现要求。
+
 ## 2026-11-02
 
 - **单分支管理**　将报告写作、PDF 转写、专利归档和后续修订统一到 `main`。原有分支的内容和提交历史已整合，审阅改为[提交前检查](templates/pre-commit-checklist.md)。[整合记录](https://github.com/OpticsPan/Research_Report/commit/7252d63fba69baa5d28c866fa419f23c8f91c919)

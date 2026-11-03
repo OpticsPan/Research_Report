@@ -4,4 +4,4 @@
 
 | 行业 | 报告主题 | 覆盖地区 | 数据截止日 | 最近修订日 |
 | --- | --- | --- | --- | --- |
-| 半导体设备 | [从 i-line 到 KrF，光刻机究竟难了多少？](semiconductor-equipment/2026-11-krf-vs-i-line/README.md) | 荷兰、日本及国际供应链 | 2026-11-02 | 2026-11-02 |
+| 半导体设备 | [XT:400M 与 NXT:870：从 i-line 到 KrF 的研发难度](semiconductor-equipment/2026-11-krf-vs-i-line/README.md) | 荷兰、日本及国际供应链 | 2026-11-03 | 2026-11-03 |

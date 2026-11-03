@@ -1,6 +1,6 @@
 # 来源表
 
-核查日期为 2026-11-02。原厂规格用来核对验收指标；实验室记录、专利和历史报道各自保留适用边界。正文的百分比和逐组加总为本报告计算。
+主机型及两件物镜公报核查于 2026-11-03；历史来源沿用 2026-11-02 版本。原厂规格用来核对验收指标；实验室记录、专利和历史报道各自保留适用边界。正文的百分比和逐组加总为本报告计算。
 
 | 编号 | 出处 | 定位与使用边界 |
 | --- | --- | --- |
@@ -22,8 +22,8 @@
 | S16 | [EPFL CMi，/350C 实机技术说明](https://www.epfl.ch/research/facilities/cmi/equipment/photolithography/asml-pas-5500-350c/) | II. Equipment description。含 WH、WS/LS、照明与投影、ARMS、CTC；配置和镜片下限只归属于该实例。 |
 | S17 | [Gigaphoton，G10K](https://www.gigaphoton.com/products/8027) | General Specifications 的典型值，高压放电与稳定性；独立光源实例。 |
 | S18 | [Nikon 工程师 Matsuyama 等，SPIE 615403（2006）](https://www.lithoguru.com/scientist/litho_history/Lithographic_lens_history_and_evolution_Matsuyama_2006.pdf) | 图 5(d)、(e) 及随文讨论，图 7–8 与物镜装调。图 5(e) 的 NA 0.55 与 [S20] 实施例最大 NA 0.60 分列。 |
-| S19 | [Nikon 专利 JPH08190047A](https://patents.google.com/patent/JPH08190047A/en) | 第一实施例，图 2、段 0044–0049、表 1。G2 含前后两片及中间三片；计算时避免把中间组重复计入。[Markdown 摘录](../../../materials/patents/JPH08190047A/README.md)。原件待取得，尚无逐页稿。 |
-| S20 | [Nikon 专利 JP2000056218A](https://patents.google.com/patent/JP2000056218A/en) | 段 0015–0019、图 1 与表 1；最大 NA 取 0015 的 0.60，按 L11 至 L510 逐组计数；排除 AS 光阑。材料为合成石英。[Markdown 处方表](../../../materials/patents/JP2000056218A/README.md)。原件待取得，尚无逐页稿。 |
+| S19 | [Nikon 专利 JPH08190047A](https://patents.google.com/patent/JPH08190047A/en) | 第一实施例，图 2、段 0044–0049、表 1。G2 含前后两片及中间三片；计算时避免把中间组重复计入。[原件 PDF](../../../materials/patents/JPH08190047A/original.pdf) · [MineU 逐页稿](../../../materials/patents/JPH08190047A/fulltext.md) · [中文摘录](../../../materials/patents/JPH08190047A/README.md)。PDF 第 17–18 页表 1，第 23 页上半图 2。 |
+| S20 | [Nikon 专利 JP2000056218A](https://patents.google.com/patent/JP2000056218A/en) | 段 0015–0019、图 1 与表 1；最大 NA 取 0015 的 0.60，按 L11 至 L510 逐组计数；排除 AS 光阑。材料为合成石英。[原件 PDF](../../../materials/patents/JP2000056218A/original.pdf) · [MineU 逐页稿](../../../materials/patents/JP2000056218A/fulltext.md) · [中文处方表](../../../materials/patents/JP2000056218A/README.md)。PDF 第 5–6 页实施例、表 1，第 7 页左下图 1。 |
 | S21 | [Corning 托管，0.35 µm 深紫外投影物镜设计论文](https://www.corning.com/media/worldwide/csm/documents/Design%20and%20Analysis%20of%20High%20NA%20Project%20Lens%200.35um%20Lithography.pdf) | 第 4 节 Critical Deep-UV Issues；石英均匀性、吸收、热负载与透射波前。 |
 | S22 | [Nikon，NSR-S220D 原厂规格](https://www.nikon.com/business/semi/lineup/pdf/NSR-S220D_e.pdf) | Performance、Streamlign Platform。6 nm 是机间套刻指标；编码器/干涉仪用于台位置测量。 |
 | S23 | [YoungBin，ASML 零件目录](https://ybsurplus.com/en/board.html?action=read&id=52) | 目录检索 WS AMP PCB。二级市场零件例证，无法据此确认 /275D 或 /350C 的装机总数。 |
@@ -41,5 +41,12 @@
 | S35 | [ASM Lithography，US6084673A](https://patentimages.storage.googleapis.com/8e/53/50/5ca8d0ec153924/US6084673.pdf) · [逐页原文](../../../materials/patents/US6084673A/fulltext.md) · [Markdown 摘录与图纸](../../../materials/patents/US6084673A/README.md) | PDF 第 2 页原图、第 27 页权利要求 1–3、8–10。测量轴、参考轴及稳折射率气流是不同技术选项。 |
 | S36 | [欧委会 CORDIS，SASSOL 2 项目 27115](https://cordis.europa.eu/project/id/27115) | 总成本 1,020 万欧元，含欧方出资 510 万。STMicroelectronics 牵头；项目卡未列具体波长及设备商分摊。 |
 | S37 | [Gigaphoton，G20K](https://www.gigaphoton.com/products/8032) | General Specifications 的典型值。和 S17 的 G10K 比较重复频率、光功率与线宽。 |
+| S38 | [ASML，TWINSCAN XT:400M](https://www.asml.com/en/products/duv-lithography-systems/twinscan-xt-400m) | 页首四张指标卡（365 nm、≤350 nm、0.65 NA、≥245 片/小时）；Key features & benefits 的 220 nm 硬件选件、光学柱、TOP-2F 和边缘场范围。 |
+| S39 | [ASML，TWINSCAN NXT:870](https://www.asml.com/en/products/duv-lithography-systems/twinscan-nxt870) | Productivity、Optics、Imaging performance：300 mm、光源功率、Starlith 865、畸变、参考晶圆全片套刻和 PARIS。型号不含后缀 B。 |
+| S40 | [ASML 2025 年报，SEC 备案 HTML](https://www.sec.gov/Archives/edgar/data/937966/000162828026011377/asml-2025xannualxreportx.htm) | 印刷页 174，Energy efficiency and climate action，DUV dry 表，逐列取 XT:400M（2023 年测量）及 NXT:870（2022 年测量）。ATP、MW 和每片次 kWh 与产品页标称值分列。 |
+| S41 | [ASML，TWINSCAN XT:860N](https://www.asml.com/en/products/duv-lithography-systems/twinscan-xt860n) | Productivity、Optics、Imaging performance。对照 300 mm 的 260 片/小时；同页另有 200 mm 的 275 片/小时，不用于本比较。 |
+| S42 | [ASML，Q4/FY 2024 投资者演示，第 9 页](https://ourbrand.asml.com/m/62a213cac2117ee6/original/2025_01_29-Presentation-Investor-Relations-Q4-FY-2024.pdf#page=9) | 2025-01-29，“First NXT:870B KrF system shipped” 的中列明确为 **NXT:870**。按表头与两条脚注复核。左侧新硬件标注属于 870B，没有移用于 870。[第 9 页数据摘录](official-data.md#twinscan-calculations)。 |
+| S43 | [ASML 2022 年报，SEC 备案 HTML](https://www.sec.gov/Archives/edgar/data/937966/000093796623000014/asml-20221231.htm) | Our products and services → Dry systems：首台 NXT:870 客户交付、对比 XT:860N 的 260 → 330 片/小时，以及扫描速度提升、系统开销减少的归因。 |
+| S44 | [ASML 2024 年报，SEC 备案 HTML](https://www.sec.gov/Archives/edgar/data/937966/000093796625000009/asml-20241231.htm) | Deep ultraviolet (DUV) lithography systems → New in 2024：首台 XT:400M 于 2024 年 4 月出货，系 XT:400L 后继机。 |
 
 [官方数据 Markdown 底稿](official-data.md)保留参数单位、计算和项目边界。
