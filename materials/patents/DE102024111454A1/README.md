@@ -11,4 +11,4 @@ Projektionsbelichtungsverfahren, Projektionsobjektiv und Projektionsbelichtungsa
 | 非球面表 9A | [第 23 页](original.pdf#page=23) | 分别核对 S2、4、13、18、23、31、33 对应的 K（均为 0）、42 个 C₁…C₆ 的正负号及指数。|
 | 原始结构图 | [图 9 局部](figures/fig-9.png) · [第 35 页原图纸](figures/page-35.png) | 图 9 在页面底部，图 7、8 属于其他实施例。图上未列实机可动框数。|
 
-[报告的逐面输入、逐片厚径比与复算脚本](../../../reports/semiconductor-equipment/2026-11-krf-vs-i-line/optical-manufacturing.md)。本公报公开日迟于 NXT:870 首发，不能作为 Starlith 865 量产处方。
+[报告的逐面输入、逐片厚径比与复算脚本](../../../reports/semiconductor-equipment/2026-11-krf-vs-i-line/optical-manufacturing.md#n801-supplement)。本公报公开日迟于 NXT:870 首发，不能作为 Starlith 865 量产处方。

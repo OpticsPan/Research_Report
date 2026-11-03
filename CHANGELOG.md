@@ -6,6 +6,8 @@
 
 ## 2026-11-03
 
+- [ASML 报告](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md#optics-and-mounts)恢复 ZEISS 官网具名的 Starlith 400、860 对照图，转回 37 片透镜的 248 nm 图 5。新增[70 件逐片参数](reports/semiconductor-equipment/2026-11-krf-vs-i-line/optical-manufacturing.md)和[欧洲同族公报的 29 页本地 MineU 稿](materials/patents/EP1006387A2/README.md)，区分单面通光高度与双面共同边厚。
+
 - [ASML 报告](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)纠正 Starlith 86X 系列配图，以 865 为目标实机型号；据[德国公报原件与 MineU 全文](materials/patents/DE102024111454A1/README.md)及另一套 i-line 处方，新增[49 件逐片加工几何及复算](reports/semiconductor-equipment/2026-11-krf-vs-i-line/optical-manufacturing.md)。晶圆台新增噪声带宽、热漂、残振和扫描套刻的同项对照。
 
 - [ASML 报告](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)以 ZEISS 0.65 NA i-line 和 0.80 NA KrF 专利图为正文主对照，新增晶圆台平台实测与十项功能比较，移除历史整机样本；[Nikon 设计](reports/semiconductor-equipment/2026-11-krf-vs-i-line/nikon-lens-supplement.md)改为补充。两件新公报的 57 页本地 MineU 稿及原件已入[资料库](materials/patents/README.md)。
