@@ -6,6 +6,8 @@
 
 ## 2026-11-03
 
+- [XT:860 晶圆台专项](reports/semiconductor-equipment/2026-11-krf-vs-i-line/xt860-ws-performance.md)经 SciBot 检索和论文读取，追溯 MA＝3 nm 为第三方模型估算，保留重复性资料缺口；把 XT:1000H 实测、其他平台噪声及整机套刻分开列示，并补入[正文](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md#xt860-ma-repeatability)。
+
 - [ASML 报告](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md#optics-and-mounts)恢复 ZEISS 官网具名的 Starlith 400、860 对照图，转回 37 片透镜的 248 nm 图 5。新增[70 件逐片参数](reports/semiconductor-equipment/2026-11-krf-vs-i-line/optical-manufacturing.md)和[欧洲同族公报的 29 页本地 MineU 稿](materials/patents/EP1006387A2/README.md)，区分单面通光高度与双面共同边厚。
 
 - [ASML 报告](reports/semiconductor-equipment/2026-11-krf-vs-i-line/README.md)纠正 Starlith 86X 系列配图，以 865 为目标实机型号；据[德国公报原件与 MineU 全文](materials/patents/DE102024111454A1/README.md)及另一套 i-line 处方，新增[49 件逐片加工几何及复算](reports/semiconductor-equipment/2026-11-krf-vs-i-line/optical-manufacturing.md)。晶圆台新增噪声带宽、热漂、残振和扫描套刻的同项对照。
